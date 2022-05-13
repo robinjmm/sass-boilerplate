@@ -1,2 +1,2 @@
-# sass-boilerplate
-A simple boilerplate for projects that uses Sass and vanilla JavaScript.
+# Sass Boilerplate
+This is my personal template for any projects that uses Sass and Vanilla JavaScript onlys.
